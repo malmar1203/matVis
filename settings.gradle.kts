@@ -6,3 +6,4 @@
  */
 
 rootProject.name = "matVis"
+include("app")
