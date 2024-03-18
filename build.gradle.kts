@@ -4,3 +4,10 @@
  * This is a general purpose Gradle build.
  * To learn more about Gradle by exploring our Samples at https://docs.gradle.org/8.3/samples
  */
+
+
+task matVis << {
+
+	println ' math visualization tool '
+
+}
